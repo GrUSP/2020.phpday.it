@@ -85,7 +85,11 @@
   speaker_id: derick-rethans
   title: What's new in PHP 8
   extract: >
-    During this presentation, we are going to look at the new features that have been introduced in PHP 8.
+    During this presentation, we are going to look at the new features that were introduced in PHP 8.0. Join me to have
+    a look at how the type system is strengthened with union types, Attributes, the JIT engine, and syntax improvements
+    such as Constructor Property Promotion, and other new smaller features.
+    At the end you will have a good understand about all the new and exciting features that are going to be part of the
+    PHP 8.0 release.
 -
   speaker_id: alexandra-white
   title: "Technically Speaking: Improve your code with documentation"
